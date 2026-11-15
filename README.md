@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/adrian-martinez-lago/">
     <img src="https://img.shields.io/badge/LinkedIn-Mi_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="TU_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-Mi_web-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
   <a href="mailto:adrianmartinezlago66@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -133,7 +130,7 @@ Exploración y desarrollo de soluciones tecnológicas, aplicaciones y proyectos 
 </p>
 
 <p align="center">
-<a href="TU_GITHUB">Ver todos mis repositorios →</a>
+<a href="https://github.com/AdrianML13?tab=repositories">Ver todos mis repositorios →</a>
 </p>
 
 </td>
