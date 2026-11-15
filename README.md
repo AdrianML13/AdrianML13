@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="TU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/adrian-martinez-lago/">
     <img src="https://img.shields.io/badge/LinkedIn-Mi_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="TU_PORTFOLIO">
     <img src="https://img.shields.io/badge/Portfolio-Mi_web-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:TU_EMAIL">
+  <a href="mailto:adrianmartinezlago66@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -48,7 +48,7 @@ Experiencia con AWS, virtualización y entornos Linux.
 
 ### ⚡ Tecnología y Electrónica
 
-Interés en hardware, microcontroladores, Raspberry Pi y automatización.
+Interés en hardware, microcontroladores y automatización.
 
 </td>
 </tr>
@@ -159,7 +159,7 @@ Exploración y desarrollo de soluciones tecnológicas, aplicaciones y proyectos 
 <h3 align="center">Cloud, datos e infraestructura</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,raspberrypi"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github"/>
 <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="48" height="48" alt="Snowflake"/>
 </p>
 
