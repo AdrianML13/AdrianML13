@@ -75,7 +75,8 @@ Plataforma Fantasy de rally con gestión de equipos, ligas, presupuestos y actua
 </p>
 
 <p align="center">
-<a href="TU_REPOSITORIO_SCER">Ver proyecto →</a>
+<a href="https://github.com/AdrianML13/SCER-Front">Frontend→</a>
+<a href="https://github.com/AdrianML13/SCER-Back">Backend→</a>
 </p>
 
 </td>
