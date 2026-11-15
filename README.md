@@ -119,29 +119,57 @@ Barcelona Airbnb data analysis and price prediction using Machine Learning.
 
 ---
 
-<!-- EXPERIENCE -->
+
+<!-- EXPERIENCE & EDUCATION -->
 <h2 align="center"> EXPERIENCE & EDUCATION </h2>
 
 <table align="center">
 <tr>
-<td>
-💼 <b>Professional Experience</b><br/>
-Software development · IT · Infrastructure
+<td width="100%">
+
+<h3>💼 Professional Experience</h3>
+
+<b>Centro Médico de Asturias</b><br/>
+<i>Internship · April 2025 – June 2025</i>
+
+<br/>
+
 </td>
 </tr>
+
 <tr>
 <td>
-🎓 <b>Education</b><br/>
-Your degree · Your institution
+
+<h3>🎓 Education</h3>
+
+<b>Specialization Course in Artificial Intelligence & Big Data</b><br/>
+<i>IES Doctor Fleming · October 2025 – May 2026</i>
+
+<br/>
+
+<b>Higher Vocational Degree in Multiplatform Application Development (DAM)</b><br/>
+<i>IES Doctor Fleming · September 2023 – June 2025</i>
+
 </td>
 </tr>
+
 <tr>
 <td>
-📜 <b>Certifications</b><br/>
-Your certifications
+
+<h3>📜 Certifications & Languages</h3>
+
+<b>AWS Generative AI Practitioner</b><br/>
+<i>Amazon Web Services (AWS)</i>
+
+<br/>
+
+<b>Cambridge English: C1 Advanced</b><br/>
+<i>Cambridge Assessment English · C1 Level</i>
+
 </td>
 </tr>
 </table>
+
 
 ---
 
