@@ -88,11 +88,11 @@ Análisis de datos de alojamientos Airbnb en Barcelona y predicción de precios 
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
 
 <p align="center">
-<a href="TU_REPOSITORIO_AIRBNB">Ver proyecto →</a>
+<a> El código fuente de este proyecto no está disponible públicamente.</a>
 </p>
 
 </td>
