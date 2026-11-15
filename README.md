@@ -70,7 +70,7 @@ Plataforma Fantasy de rally con gestión de equipos, ligas, presupuestos y actua
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=angular,django,python,mysql"/>
+<img src="https://skillicons.dev/icons?i=angular,django,python,mysql,#43B02A"/>
 </p>
 
 <p align="center">
