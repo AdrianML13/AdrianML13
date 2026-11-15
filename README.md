@@ -93,7 +93,7 @@ Análisis de datos de alojamientos Airbnb en Barcelona y predicción de precios 
 </p>
 
 <p align="center">
-<a> El código fuente de este proyecto no está disponible públicamente.</a>
+<sub>Código fuente no disponible públicamente.</sub>
 </p>
 
 </td>
