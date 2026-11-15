@@ -72,7 +72,6 @@ Plataforma Fantasy de rally con gestión de equipos, ligas, presupuestos y actua
 <p align="center">
 <img src="https://skillicons.dev/icons?i=angular,django,python,mysql"/>
 <img src="https://cdn.simpleicons.org/selenium/43B02A" width="48" height="48" alt="Selenium"/>
-<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit"/>
 </p>
 
 <p align="center">
@@ -90,7 +89,7 @@ Análisis de datos de alojamientos Airbnb en Barcelona y predicción de precios 
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit"/>
 </p>
 
 <p align="center">
