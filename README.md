@@ -71,7 +71,8 @@ Plataforma Fantasy de rally con gestión de equipos, ligas, presupuestos y actua
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=angular,django,python,mysql"/>
-<img src="https://img.shields.io/badge/-43B02A?style=flat&logo=selenium&logoColor=white" style="border-radius: 5px;"/>
+<img src="https://cdn.simpleicons.org/selenium/43B02A" width="48" height="48" alt="Selenium"/>
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit"/>
 </p>
 
 <p align="center">
