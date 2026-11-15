@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Adrian">
+</p>
 
 <!--
 **AdrianML13/AdrianML13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
