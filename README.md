@@ -93,7 +93,7 @@ Análisis de datos de alojamientos Airbnb en Barcelona y predicción de precios 
 </p>
 
 <p align="center">
-<sub>Código fuente no disponible públicamente.</sub>
+<sub>Código fuente no disponible</sub>
 </p>
 
 </td>
@@ -119,7 +119,7 @@ Desarrollo de una aplicación para la gestión y seguimiento de incidencias del 
 </p>
 
 <p align="center">
-<sub>Código fuente no disponible públicamente.</sub>
+<sub>Código fuente no disponible públicamente</sub>
 </p>
 
 </td>
