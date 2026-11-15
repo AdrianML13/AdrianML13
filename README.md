@@ -145,20 +145,6 @@ Your certifications
 
 ---
 
-<!-- GITHUB STATS -->
-<h2 align="center"> GITHUB ACTIVITY </h2>
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="75%" src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=transparent&hide_border=true"/>
-</p>
-
----
-
 <p align="center">
 <i>Always learning. Always building.</i> 🚀
 </p>
