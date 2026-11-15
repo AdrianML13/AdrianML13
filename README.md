@@ -1,53 +1,54 @@
 <p align="center">
-  <img src="assets/banner2.png" width="100%" alt="Adrian">
+  <img src="assets/banner2.png" width="100%" alt="Adrián Martínez"/>
 </p>
+
 <p align="center">
   <a href="TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Mi_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="TU_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Mi_web-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:TU_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- ABOUT ME -->
-<h2 align="center"> ABOUT ME </h2>
+<!-- SOBRE MÍ -->
+<h2 align="center"> SOBRE MÍ </h2>
 
 <table align="center">
 <tr>
 <td width="50%" align="center">
 
-### 💻 Development
+### 💻 Desarrollo de software
 
-Building applications, APIs and backend systems.
+Desarrollo de aplicaciones, APIs y sistemas backend.
 
 </td>
 <td width="50%" align="center">
 
-### 🧠 AI & Data
+### 🧠 Inteligencia Artificial y Datos
 
-Exploring LLMs, RAG, machine learning and data engineering.
+Interés en LLMs, RAG, Machine Learning e ingeniería de datos.
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-### ☁️ Cloud & Infrastructure
+### ☁️ Cloud e Infraestructura
 
-Working with AWS, virtualization and Linux environments.
+Experiencia con AWS, virtualización y entornos Linux.
 
 </td>
 <td width="50%" align="center">
 
-### ⚡ Technology
+### ⚡ Tecnología y Electrónica
 
-Interested in electronics, hardware and automation.
+Interés en hardware, microcontroladores, Raspberry Pi y automatización.
 
 </td>
 </tr>
@@ -55,8 +56,8 @@ Interested in electronics, hardware and automation.
 
 ---
 
-<!-- PROJECTS -->
-<h2 align="center"> FEATURED PROJECTS </h2>
+<!-- PROYECTOS -->
+<h2 align="center"> PROYECTOS DESTACADOS </h2>
 
 <table align="center">
 <tr>
@@ -65,7 +66,7 @@ Interested in electronics, hardware and automation.
 <h3 align="center">🏁 SCER League</h3>
 
 <p align="center">
-Fantasy rally platform with teams, leagues, budgets and automated results.
+Plataforma Fantasy de rally con gestión de equipos, ligas, presupuestos y actualización automatizada de resultados.
 </p>
 
 <p align="center">
@@ -73,16 +74,16 @@ Fantasy rally platform with teams, leagues, budgets and automated results.
 </p>
 
 <p align="center">
-<a href="TU_REPOSITORIO_SCER">View project →</a>
+<a href="TU_REPOSITORIO_SCER">Ver proyecto →</a>
 </p>
 
 </td>
 <td width="50%">
 
-<h3 align="center">📊 Airbnb Analytics</h3>
+<h3 align="center">📊 Airbnb Barcelona Analytics</h3>
 
 <p align="center">
-Barcelona Airbnb data analysis and price prediction using Machine Learning.
+Análisis de datos de alojamientos Airbnb en Barcelona y predicción de precios mediante técnicas de Machine Learning.
 </p>
 
 <p align="center">
@@ -90,7 +91,42 @@ Barcelona Airbnb data analysis and price prediction using Machine Learning.
 </p>
 
 <p align="center">
-<a href="TU_REPOSITORIO_AIRBNB">View project →</a>
+<a href="TU_REPOSITORIO_AIRBNB">Ver proyecto →</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3 align="center">🏥 Gestión de Incidencias Hospitalarias</h3>
+
+<p align="center">
+Desarrollo de una aplicación para la gestión y seguimiento de incidencias del servicio de mantenimiento hospitalario.
+</p>
+
+<p align="center">
+<b>Proyecto profesional · Centro Médico de Asturias</b>
+<br/>
+<sub>Abril – Junio 2025</sub>
+</p>
+
+<p align="center">
+<sub>Código fuente no disponible públicamente.</sub>
+</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">🚀 Otros proyectos</h3>
+
+<p align="center">
+Exploración y desarrollo de soluciones tecnológicas, aplicaciones y proyectos personales.
+</p>
+
+<p align="center">
+<a href="TU_GITHUB">Ver todos mis repositorios →</a>
 </p>
 
 </td>
@@ -99,56 +135,50 @@ Barcelona Airbnb data analysis and price prediction using Machine Learning.
 
 ---
 
-<!-- TECH STACK -->
-<h2 align="center"> TECH STACK </h2>
+<!-- TECNOLOGÍAS -->
+<h2 align="center"> TECNOLOGÍAS </h2>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Lenguajes de programación</h3>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,php"/>
 </p>
 
-<h3 align="center">Frameworks & Databases</h3>
+<h3 align="center">Frameworks y bases de datos</h3>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=angular,django,fastapi,react,mysql,postgres,redis"/>
 </p>
 
-<h3 align="center">Cloud & Tools</h3>
+<h3 align="center">Cloud, datos e infraestructura</h3>
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,raspberrypi"/>
+<img src="https://skillicons.dev/icons?i=aws,snowflake,docker,linux,git,github,raspberrypi"/>
+</p>
+
+<h3 align="center">Otras tecnologías</h3>
+
+<p align="center">
+Virtualización · Proxmox · VMware · RAG · LLMs · Machine Learning
 </p>
 
 ---
 
-
-<!-- EXPERIENCE & EDUCATION -->
-<h2 align="center"> EXPERIENCE & EDUCATION </h2>
+<!-- EXPERIENCIA Y FORMACIÓN -->
+<h2 align="center"> EXPERIENCIA Y FORMACIÓN </h2>
 
 <table align="center">
 <tr>
 <td width="100%">
 
-<h3>💼 Professional Experience</h3>
+<h3>💼 Experiencia profesional</h3>
 
 <b>Centro Médico de Asturias</b><br/>
-<i>Internship · April 2025 – June 2025</i>
+<i>Prácticas de desarrollo de software · Abril 2025 – Junio 2025</i>
 
-<br/>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<h3>🎓 Education</h3>
-
-<b>Specialization Course in Artificial Intelligence & Big Data</b><br/>
-<i>IES Doctor Fleming · October 2025 – May 2026</i>
-
-<br/>
-
-<b>Higher Vocational Degree in Multiplatform Application Development (DAM)</b><br/>
-<i>IES Doctor Fleming · September 2023 – June 2025</i>
+<ul>
+<li>Desarrollo de una aplicación SAS para la gestión de incidencias del servicio de mantenimiento del hospital.</li>
+</ul>
 
 </td>
 </tr>
@@ -156,7 +186,23 @@ Barcelona Airbnb data analysis and price prediction using Machine Learning.
 <tr>
 <td>
 
-<h3>📜 Certifications & Languages</h3>
+<h3>🎓 Formación académica</h3>
+
+<b>Curso de Especialización en Inteligencia Artificial y Big Data</b><br/>
+<i>IES Doctor Fleming · Octubre 2025 – Mayo 2026</i>
+
+<br/>
+
+<b>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)</b><br/>
+<i>IES Doctor Fleming · Septiembre 2023 – Junio 2025</i>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<h3>📜 Certificaciones e idiomas</h3>
 
 <b>AWS Generative AI Practitioner</b><br/>
 <i>Amazon Web Services (AWS)</i>
@@ -164,15 +210,29 @@ Barcelona Airbnb data analysis and price prediction using Machine Learning.
 <br/>
 
 <b>Cambridge English: C1 Advanced</b><br/>
-<i>Cambridge Assessment English · C1 Level</i>
+<i>Cambridge Assessment English · Nivel C1</i>
 
 </td>
 </tr>
 </table>
 
+---
+
+<!-- ESTADÍSTICAS -->
+<h2 align="center"> ACTIVIDAD EN GITHUB </h2>
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="75%" src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=transparent&hide_border=true"/>
+</p>
 
 ---
 
 <p align="center">
-<i>Always learning. Always building.</i> 🚀
+<i>Siempre aprendiendo. Siempre construyendo.</i> 🚀
 </p>
+```
