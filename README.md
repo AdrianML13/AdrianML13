@@ -160,7 +160,7 @@ Exploración y desarrollo de soluciones tecnológicas, aplicaciones y proyectos 
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,raspberrypi"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="48" height="48" alt="Snowflake"/>
 </p>
 
 <h3 align="center">Otras tecnologías</h3>
