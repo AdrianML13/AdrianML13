@@ -87,7 +87,8 @@ Análisis de datos de alojamientos Airbnb en Barcelona y predicción de precios 
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,snowflake"/>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -110,6 +111,10 @@ Desarrollo de una aplicación para la gestión y seguimiento de incidencias del 
 <b>Proyecto profesional · Centro Médico de Asturias</b>
 <br/>
 <sub>Abril – Junio 2025</sub>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,linux,postgres"/>
 </p>
 
 <p align="center">
@@ -153,7 +158,8 @@ Exploración y desarrollo de soluciones tecnológicas, aplicaciones y proyectos 
 <h3 align="center">Cloud, datos e infraestructura</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,snowflake,docker,linux,git,github,raspberrypi"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,raspberrypi"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
 </p>
 
 <h3 align="center">Otras tecnologías</h3>
@@ -204,10 +210,18 @@ Virtualización · Proxmox · VMware · RAG · LLMs · Machine Learning
 
 <h3>📜 Certificaciones e idiomas</h3>
 
+<p>
+<img src="https://img.shields.io/badge/AWS-Generative_AI_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+</p>
+
 <b>AWS Generative AI Practitioner</b><br/>
 <i>Amazon Web Services (AWS)</i>
 
 <br/>
+
+<p>
+<img src="https://img.shields.io/badge/Cambridge-C1_Advanced-005A9C?style=for-the-badge"/>
+</p>
 
 <b>Cambridge English: C1 Advanced</b><br/>
 <i>Cambridge Assessment English · Nivel C1</i>
@@ -220,4 +234,3 @@ Virtualización · Proxmox · VMware · RAG · LLMs · Machine Learning
 <p align="center">
 <i>Always learning. Always building.</i>
 </p>
-```
